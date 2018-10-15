@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 
 client.on('ready', () => {
-	    client.user.setGame(`Mgazeb seerver`,'https://www.twitch.tv/v5bz');
+	    client.user.setGame(`Quadra seerver`,'https://www.twitch.tv/v5bz');
 	console.log('----');
 	console.log('fouly is here')
 	console.log('----')
